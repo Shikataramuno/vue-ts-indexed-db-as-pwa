@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/vue-ts-indexed-db-as-pwa/precache-manifest.201db368ad3eb9b0d04d1fbaa2ad35a9.js"
+  "/vue-ts-indexed-db-as-pwa/precache-manifest.b7268dd5789cd85dd4f649cfbad6831d.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "vue-ts-indexed-db-as-pwa"});
